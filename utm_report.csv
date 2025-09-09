@@ -1,0 +1,4 @@
+URL,Status
+http://example.com/utm_source=example&utm_medium=example&utm_campaign=example,UTM Present
+http://example.com,UTM Missing
+http://example.com/utm_source=example,UTM Missing
